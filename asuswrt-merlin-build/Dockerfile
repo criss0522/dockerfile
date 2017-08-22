@@ -15,7 +15,7 @@ LABEL org.label-schema.build-date=$BUILD_DATE \
       org.label-schema.version=$VERSION \
       org.label-schema.schema-version="1.0"
 
-ENV ASUSWRT_MERLIN_VERSION 380.66
+ENV ASUSWRT_MERLIN_VERSION 380.65
 
 COPY build.sh /root/build.sh
 
